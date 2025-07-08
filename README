@@ -1,0 +1,10 @@
+Proyek eksplorasi data lowongan kerja di bidang Artificial Intelligence dari berbagai negara.  
+Fokus pada:
+- Job AI yang popoler di dunia : Machine Learning Researcher
+- Gaji rata-rata tertinggi Job AI : AI Architect 
+- Apakah pekerjaan Remote (dari mana saja) mempengaruhi gaji : ya , pekerja remot menawarkan gaji sedikit lebih tinggi 
+- Apakah pengalaman dan gelar mempengaruhi gaji : hanya pengalaman yang mempengaruhi gaji, sedangkan gelar hanya sedikit mempengaruhi
+- Negara mana dengan gaji rata-rata tertinggi dan terendah untuk Job Ai : tertinggi = Switzerland($ 170639), terendah = ($ India)
+
+Dataset: [ai_job_dataset]  
+Tools: Python (Pandas, Seaborn, Matplotlib), Jupyter Notebook
